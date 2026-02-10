@@ -1,0 +1,2 @@
+# ia_moviles_act5_appbarcard_gpo_6I_EALG
+propiedades de appbar
